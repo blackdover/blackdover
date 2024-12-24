@@ -10,10 +10,11 @@
 
 ### 💻 Tech Stack:
 ![C++ Badge](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-green?logo=c&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML-red?logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
-![C Badge](https://img.shields.io/badge/C-green?logo=c&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+![Qt Badge](https://img.shields.io/badge/Qt-darkgreen?logo=qt&logoColor=white)
 
 ### 🎮 Personal Interests:
 - **League of Legends** (LoL) — Avid gamer and strategist! 🎮
@@ -30,5 +31,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackdover)
 
 ---
-
-Thank you for visiting my profile! Let’s connect and collaborate! 😊
