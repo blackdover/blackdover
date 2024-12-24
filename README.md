@@ -1,6 +1,7 @@
 #### Welcome to my GitHub profile! Here’s a little bit about me:
 
 ### 🔭 Currently Working On:
+- Preparing for **final exams** so painful ((((( .
 - A **Qt** project, developing a desktop application.
 
 ### 🌱 Currently Learning:
@@ -15,6 +16,7 @@
 ![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 ![Qt Badge](https://img.shields.io/badge/Qt-darkgreen?logo=qt&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 
 ### 🎮 Personal Interests:
 - **League of Legends** (LoL) — Avid gamer and strategist! 🎮
@@ -26,8 +28,5 @@
 
 ### 📈 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackdover)
-
-### 🌍 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackdover)
 
 ---
