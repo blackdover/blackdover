@@ -1,7 +1,7 @@
 #### Welcome to my GitHub profile! Here’s a little bit about me:
 
 ### 🔭 Currently Working On:
-- Preparing for **final exams** , painful ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((( .
+- ***ACM-ICPC***
 - A **Qt** project, developing a desktop application.
 
 ### 🌱 Currently Learning:
