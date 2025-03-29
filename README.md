@@ -33,12 +33,6 @@
 <p align="center">
     <!-- 社交徽章（黑/红配色） -->
     <a href="https://github.com/blackdover"><img src="https://img.shields.io/badge/GitHub-blackdover-000000?logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Add_Me-red?logo=linkedin" alt="LinkedIn" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Twitter-Follow_Me-blue?logo=twitter" alt="Twitter" /></a>
-    <!-- WakaTime统计 -->
-    <a href="https://wakatime.com/@blackdover"><img src="https://wakatime.com/badge/user/your-wakatime-id.svg?style=flat&color=red" alt="WakaTime" /></a>
-    <!-- 访问计数 -->
-    <img src="https://komarev.com/ghpvc/?username=blackdover&label=Profile+Views&color=black" alt="Views" />
 </p>
 
 <p align="center">
