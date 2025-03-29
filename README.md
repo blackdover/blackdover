@@ -1,13 +1,8 @@
-#### Welcome to my GitHub profile! Here’s a little bit about me:
+### 📈 GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackdover)
 
-### 🔭 Currently Working On:
-- ***ACM-ICPC***
-- A **Qt** project, developing a desktop application.
-
-### 🌱 Currently Learning:
-- **Node.js** and **React** for web development.
-- **Machine Learning** to dive into the world of AI.
-- Preparing for **Algorithm Competitions** and improving problem-solving skills.
+---
+#### Welcome to my GitHub profile!
 
 ### 💻 Tech Stack:
 ![C++ Badge](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
@@ -26,7 +21,3 @@
 
 ---
 
-### 📈 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackdover)
-
----
