@@ -2,11 +2,13 @@
 
 ### 🔭 Currently Working On:
 - **wechat** 和 **aliplay** mini-app
+- Exploring **Machine Learning** applications in various domains.
 
 ### 🌱 Currently Learning:
-- **Node.js** 和 **Vue** for web development.
-- **Machine Learning** to dive into the world of AI.
-- Preparing for **Algorithm Competitions** and improving problem-solving skills.
+- **CV**: Deep dive into image recognition, object detection, and segmentation.
+- **NLP**: Understanding and generating human language with AI.
+- **3DGS**: Exploring techniques for rendering and manipulating 3D scenes.
+- **Node.js** 和 **Vue**: Strengthening full-stack web development skills.
 
 ### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
@@ -21,13 +23,9 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
 
-
 ### 🎮 Personal Interests:
-- **League of Legends** (LoL) — Avid gamer and strategist! 🎮
 - **Besiege** — Physics-based building and destruction simulator. ⚙️💥
-- **Red Dead Redemption 2** (RDR2) — Immersive open-world experience. 🏜️🐎
 - Reading **novels** — Especially **sci-fi** and **fantasy** books! 📚✨
-- **Valorant**
 ---
 
 ### 📈 GitHub Stats:
@@ -35,6 +33,4 @@
 
 ### Connection with me
 📧 [Email me](mailto:blackdover@163.com)
----
-
 ---
