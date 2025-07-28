@@ -5,8 +5,6 @@
 - Exploring **Machine Learning** applications in various domains.
 
 ### 🌱 Currently Learning:
-- **CV**: Deep dive into image recognition, object detection, and segmentation.
-- **NLP**: Understanding and generating human language with AI.
 - **3DGS**: Exploring techniques for rendering and manipulating 3D scenes.
 - **Node.js** 和 **Vue**: Strengthening full-stack web development skills.
 
