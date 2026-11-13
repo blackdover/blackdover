@@ -1,6 +1,6 @@
 # Hi there, I'm Blackdover 👋
 
-I'm an incoming Master's student at **East China Normal University (ECNU)**, where I'll be joining the **Embodied Intelligence** research group. I completed my undergraduate studies at the College of Information Engineering, Shanghai Maritime University.
+I'm an incoming Master's student at **East China Normal University (ECNU)**, where I'll be joining the **Embodied Intelligence** research group. I will complete my undergraduate studies at the College of Information Engineering, Shanghai Maritime University.
 
 ---
 
