@@ -1,27 +1,28 @@
-# Welcome to my GitHub profile! 👋
+# Hi there, I'm Blackdover 👋
 
-I am currently a student at the College of Information Engineering, Shanghai Maritime University.
+I'm an incoming Master's student at **East China Normal University (ECNU)**, where I'll be joining the **Embodied Intelligence** research group. I completed my undergraduate studies at the College of Information Engineering, Shanghai Maritime University.
 
 ---
 
-### 🧠 Research Interests:
+### 🧠 Research Interests
 
+- Embodied Intelligence & Embodied AI
 - Medical AI and Computational Pathology
-- Multimodal Medical Learning (WSI, MRI, Genomics)
-- Small-sample Machine Learning for Biomedical Data
+- Multimodal Learning (WSI, MRI, Genomics)
 - Neuroimaging and fMRI Modeling
 - Domain-specific Large Language Models
 
 ---
 
-### 👨‍💻 Experience:
+### 👨‍💻 Experience
 
+- **Incoming M.S. Student, East China Normal University** — Embodied Intelligence
 - **Research Intern, Shanghai Academy of AI for Science (SAIS)** — Medical AI
 - **Research Intern, A\*Star IHPC** — Maritime Large Language Models
 
 ---
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -38,7 +39,7 @@ I am currently a student at the College of Information Engineering, Shanghai Mar
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
 
-#### Tools and Frameworks
+#### Tools & Frameworks
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
@@ -48,13 +49,13 @@ I am currently a student at the College of Information Engineering, Shanghai Mar
 
 ---
 
-### 🎮 Personal Interests:
+### 🎮 Personal Interests
 
-- **Besiege** — Physics-based building and destruction simulator ⚙️💥
-- Reading **novels** — especially sci-fi and fantasy 📚✨
+- **Besiege** — physics-based building and destruction simulator ⚙️💥
+- **Novels** — especially sci-fi and fantasy 📚✨
 
 ---
 
-### 📫 Connect with me:
+### 📫 Get in touch
 
-📧 [Email me](mailto:blackdover@163.com)
+📧 [blackdover@163.com](mailto:blackdover@163.com)
